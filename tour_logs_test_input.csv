@@ -1,0 +1,501 @@
+Gig_ID,Venue_ID,Show_DateTime,Day_of_Week,Volume_Level,Ticket_Price,Crowd_Size,Opener_Rating,Weather,Moon_Phase,Band_Outfit,Merch_Sales_Post_Show
+Gig_0000,V_Alpha,2024-05-08 16:00:00,2,2.0,69.96,747.0,4,Cloudy,New Moon,Velvet,807
+Gig_0001,V_Alpha,2024-03-10 16:00:00,6,,44.82,541.0,5,Cloudy,New Moon,Spandex,702
+Gig_0002,V_Alpha,2024-04-10 22:00:00,2,3.0,40.96,636.0,3,Cloudy,New Moon,Leather,467
+Gig_0003,V_Beta,11/04/2024 07:00 AM,3,1.0,50.70,655.0,4,Clear,New Moon,Denim,0
+Gig_0004,V_Delta,2024-03-18 17:00:00,0,1.0,15.61,587.0,3,Stormy,First Quarter,Denim,832
+Gig_0005,V_Alpha,2024-03-12 23:00:00,1,2.0,73.58,,2,Rainy,New Moon,Leather,1015
+Gig_0006,V_Alpha,2024-05-14 22:00:00,1,0.0,74.01,338.0,5,Stormy,Waxing Crescent,Spandex,973
+Gig_0007,V_Alpha,2024-09-13 18:00:00,4,5.0,70.18,382.0,3,Stormy,First Quarter,Velvet,1185
+Gig_0008,V_Beta,"August 03, 2024",5,11.0,91.74,387.0,5,Cloudy,Waning Crescent,Velvet,41
+Gig_0009,V_Alpha,2024-06-10 18:00:00,0,,64.63,496.0,5,Stormy,New Moon,Denim,253
+Gig_0010,V_Delta,2024-07-12 21:00:00,4,11.0,31.18,575.0,4,Cloudy,Waxing Crescent,Spandex,840
+Gig_0011,V_Alpha,2024-09-10 15:00:00,1,,50.86,741.0,2,Clear,Waxing Crescent,Spandex,383
+Gig_0012,V_Gamma,2024-04-13 21:00:00,5,6.0,$53.50,685.0,3,Stormy,Waxing Crescent,Spandex,992
+Gig_0013,V_Alpha,2024-09-02 23:00:00,0,0.0,74.01,568.0,4,Cloudy,Waning Crescent,Velvet,728
+Gig_0014,V_Alpha,2024-08-08 16:00:00,3,,57.52,478.0,1,Cloudy,New Moon,Leather,713
+Gig_0015,V_Delta,2024-07-15 21:00:00,0,9.0,36.71,342.0,1,Cloudy,First Quarter,Spandex,831
+Gig_0016,V_Delta,2024-09-12 21:00:00,3,11.0,35.30,520.0,2,Stormy,First Quarter,Velvet,845
+Gig_0017,V_Beta,Evening,1,9.0,24.51,201.0,4,Stormy,New Moon,Leather,792
+Gig_0018,V_Delta,2024-03-12 18:00:00,1,1.0,44.55,545.0,2,Stormy,New Moon,Denim,625
+Gig_0019,V_Beta,"March 06, 2024",2,5.0,36.62,555.0,3,Cloudy,Last Quarter,Leather,0
+Gig_0020,V_Delta,2024-08-10 16:00:00,5,7.0,22.98,462.0,1,Clear,Waxing Crescent,Leather,768
+Gig_0021,V_Alpha,2024-07-09 16:00:00,1,6.0,51.30,654.0,1,Clear,New Moon,Denim,861
+Gig_0022,V_Delta,2024-03-03 21:00:00,6,9.0,22.42,693.0,4,Clear,Last Quarter,Spandex,744
+Gig_0023,V_Delta,2024-03-08 21:00:00,4,6.0,39.93,476.0,3,Stormy,Waning Crescent,Velvet,408
+Gig_0024,V_Alpha,2024-09-09 23:00:00,0,,61.30,408.0,3,Stormy,Waxing Crescent,Denim,250
+Gig_0025,V_Beta,06-16-2024 19:00,6,2.0,61.18,723.0,2,Cloudy,First Quarter,Leather,632
+Gig_0026,V_Beta,09-07-2024 20:00,5,2.0,15.00,702.0,1,Stormy,Waxing Crescent,Velvet,751
+Gig_0027,V_Gamma,2024-04-07 17:00:00,6,11.0,$68.10,752.0,3,Stormy,Waning Crescent,Spandex,1235
+Gig_0028,V_Gamma,2024-04-02 19:00:00,1,9.0,64.36 USD,578.0,3,Clear,Last Quarter,Denim,1044
+Gig_0029,V_Beta,"July 29, 2024",0,7.0,58.06,704.0,4,Clear,Last Quarter,Spandex,93
+Gig_0030,V_Beta,2024-06-25 22:00:00,1,11.0,49.33,757.0,1,Cloudy,Waning Gibbous,Denim,703
+Gig_0031,V_Delta,2024-09-06 15:00:00,4,11.0,26.46,439.0,4,Cloudy,New Moon,Leather,895
+Gig_0032,V_Delta,2024-09-15 23:00:00,6,1.0,15.00,514.0,2,Cloudy,Waxing Gibbous,Spandex,833
+Gig_0033,V_Beta,27/05/2024 11:00 AM,0,9.0,76.52,466.0,1,Cloudy,Waning Gibbous,Spandex,116
+Gig_0034,V_Beta,24/07/2024 10:00 AM,2,6.0,54.91,730.0,1,Cloudy,Full Moon,Leather,0
+Gig_0035,V_Beta,04-22-2024 10:00,0,6.0,45.11,343.0,3,Stormy,Waxing Gibbous,Spandex,0
+Gig_0036,V_Alpha,2024-07-07 12:00:00,6,2.0,52.43,800.0,2,Rainy,New Moon,Spandex,701
+Gig_0037,V_Alpha,2024-04-19 23:00:00,4,5.0,80.04,888.0,5,Rainy,First Quarter,Spandex,1111
+Gig_0038,V_Alpha,2024-08-01 20:00:00,3,,46.84,302.0,1,Cloudy,Waning Crescent,Velvet,623
+Gig_0039,V_Beta,"July 15, 2024",0,3.0,49.21,410.0,4,Stormy,First Quarter,Denim,82
+Gig_0040,V_Delta,2024-09-15 22:00:00,6,1.0,51.84,811.0,3,Stormy,Waxing Gibbous,Leather,752
+Gig_0041,V_Gamma,2024-06-10 15:00:00,0,4.0,79.00 USD,659.0,5,Rainy,New Moon,Velvet,1390
+Gig_0042,V_Alpha,2024-08-01 23:00:00,3,,42.63,576.0,4,Cloudy,Waning Crescent,Leather,409
+Gig_0043,V_Alpha,2024-08-24 22:00:00,5,1.0,56.04,875.0,3,Stormy,Waning Gibbous,Denim,705
+Gig_0044,V_Gamma,2024-08-19 23:00:00,0,7.0,€72.05,582.0,3,Cloudy,Waxing Gibbous,Leather,1302
+Gig_0045,V_Beta,09-14-2024 09:00,5,8.0,39.74,543.0,3,Rainy,First Quarter,Velvet,8
+Gig_0046,V_Beta,06-06-2024 23:00,3,1.0,62.64,429.0,4,Stormy,Waning Crescent,Velvet,980
+Gig_0047,V_Gamma,2024-04-14 17:00:00,6,9.0,$68.96 (VIP: $103.44),602.0,4,Cloudy,Waxing Crescent,Denim,965
+Gig_0048,V_Alpha,2024-05-15 19:00:00,2,2.0,58.39,696.0,3,Cloudy,Waxing Crescent,Spandex,750
+Gig_0049,V_Alpha,2024-06-06 21:00:00,3,1.0,74.96,451.0,5,Stormy,Waning Crescent,Spandex,921
+Gig_0050,V_Gamma,2024-03-28 22:00:00,3,8.0,$80.12,250.0,5,Cloudy,Full Moon,Velvet,1334
+Gig_0051,V_Beta,2024-08-13 11:00:00,1,8.0,34.52,430.0,3,Stormy,First Quarter,Velvet,195
+Gig_0052,V_Gamma,2024-05-03 16:00:00,4,8.0,69.68 USD,580.0,5,Cloudy,Last Quarter,Leather,1183
+Gig_0053,V_Gamma,2024-03-13 23:00:00,2,3.0,67.77 USD,460.0,1,Clear,New Moon,Denim,924
+Gig_0054,V_Delta,2024-08-17 23:00:00,5,8.0,20.65,451.0,2,Stormy,Waxing Gibbous,Spandex,546
+Gig_0055,V_Alpha,2024-06-29 15:00:00,5,,50.54,524.0,2,Cloudy,Last Quarter,Denim,688
+Gig_0056,V_Beta,08-01-2024 23:00,3,1.0,50.94,398.0,4,Cloudy,Waning Crescent,Velvet,842
+Gig_0057,V_Alpha,2024-05-22 23:00:00,2,,80.73,437.0,2,Clear,Waxing Gibbous,Velvet,1099
+Gig_0058,V_Gamma,2024-04-13 16:00:00,5,7.0,71,486.0,3,Stormy,Waxing Crescent,Velvet,1431
+Gig_0059,V_Alpha,2024-08-03 19:00:00,5,1.0,53.53,470.0,4,Rainy,Waning Crescent,Velvet,1024
+Gig_0060,V_Beta,2024-03-12 10:00:00,1,5.0,74.66,422.0,5,Rainy,New Moon,Leather,0
+Gig_0061,V_Beta,2024-05-17 09:00:00,4,8.0,53.10,615.0,4,Rainy,First Quarter,Spandex,0
+Gig_0062,V_Gamma,2024-07-14 20:00:00,6,2.0,$120.00,617.0,1,Stormy,First Quarter,Spandex,716
+Gig_0063,V_Gamma,2024-04-19 15:00:00,4,9.0,$69.21,474.0,1,Stormy,First Quarter,Leather,1116
+Gig_0064,V_Delta,2024-06-23 22:00:00,6,2.0,31.80,279.0,1,Stormy,Full Moon,Leather,736
+Gig_0065,V_Delta,2024-07-11 23:00:00,3,6.0,15.00,344.0,2,Stormy,Waxing Crescent,Denim,75
+Gig_0066,V_Beta,04-19-2024 11:00,4,4.0,42.68,422.0,2,Clear,First Quarter,Denim,105
+Gig_0067,V_Beta,Morning,1,2.0,52.53,341.0,4,Clear,Waxing Gibbous,Leather,0
+Gig_0068,V_Alpha,2024-06-14 22:00:00,4,0.0,34.38,198.0,3,Clear,First Quarter,Spandex,297
+Gig_0069,V_Beta,"September 04, 2024",2,7.0,82.06,650.0,3,Rainy,New Moon,Denim,0
+Gig_0070,V_Gamma,2024-03-29 19:00:00,4,5.0,97,413.0,3,Rainy,Waning Gibbous,Spandex,1041
+Gig_0071,V_Alpha,2024-09-08 23:00:00,6,0.0,61.91,591.0,2,Stormy,Waxing Crescent,Velvet,552
+Gig_0072,V_Beta,2024-07-09 10:00:00,1,11.0,32.37,436.0,4,Stormy,New Moon,Spandex,65
+Gig_0073,V_Beta,08/06/2024 10:00 AM,5,2.0,50.50,631.0,4,Clear,New Moon,Denim,0
+Gig_0074,V_Gamma,2024-04-05 20:00:00,4,8.0,$79.92,332.0,1,Rainy,Waning Crescent,Velvet,837
+Gig_0075,V_Alpha,2024-06-26 18:00:00,2,,53.31,577.0,5,Clear,Waning Gibbous,Denim,612
+Gig_0076,V_Gamma,2024-05-13 17:00:00,0,6.0,80.65 USD,,2,Stormy,Waxing Crescent,Velvet,1108
+Gig_0077,V_Alpha,2024-03-28 20:00:00,3,,57.99,459.0,1,Cloudy,Full Moon,Velvet,629
+Gig_0078,V_Beta,"June 07, 2024",4,3.0,15.00,,4,Rainy,New Moon,Spandex,0
+Gig_0079,V_Delta,2024-04-05 17:00:00,4,1.0,52.20,640.0,2,Clear,Waning Crescent,Leather,877
+Gig_0080,V_Gamma,2024-03-09 18:00:00,5,2.0,€44.78,441.0,2,Rainy,Waning Crescent,Velvet,814
+Gig_0081,V_Delta,2024-06-19 18:00:00,2,4.0,36.07,651.0,4,Clear,Waxing Gibbous,Denim,643
+Gig_0082,V_Alpha,2024-04-08 17:00:00,0,2.0,43.36,396.0,4,Clear,Waning Crescent,Velvet,891
+Gig_0083,V_Beta,19/08/2024 11:00 AM,0,1.0,37.61,452.0,3,Stormy,Waxing Gibbous,Spandex,52
+Gig_0084,V_Beta,01/05/2024 01:00 PM,2,4.0,48.71,492.0,4,Cloudy,Last Quarter,Spandex,281
+Gig_0085,V_Beta,03-23-2024 11:00,5,11.0,48.68,529.0,1,Cloudy,Waxing Gibbous,Denim,106
+Gig_0086,V_Gamma,2024-08-19 17:00:00,0,7.0,$61.98,644.0,3,Rainy,Waxing Gibbous,Velvet,1040
+Gig_0087,V_Alpha,2024-03-15 16:00:00,4,,71.74,,1,Clear,Waxing Crescent,Velvet,165
+Gig_0088,V_Gamma,2024-04-30 23:00:00,1,3.0,67.66 USD,552.0,5,Clear,Waning Gibbous,Spandex,1324
+Gig_0089,V_Gamma,2024-06-16 17:00:00,6,9.0,56.60 USD,637.0,3,Cloudy,First Quarter,Spandex,866
+Gig_0090,V_Beta,2024-06-15 09:00:00,5,1.0,34.29,672.0,5,Cloudy,First Quarter,Spandex,0
+Gig_0091,V_Gamma,2024-05-20 20:00:00,0,1.0,£70.85,531.0,3,Clear,Waxing Gibbous,Velvet,1127
+Gig_0092,V_Gamma,2024-03-21 23:00:00,3,7.0,€86.34,439.0,2,Cloudy,First Quarter,Leather,681
+Gig_0093,V_Delta,2024-03-27 20:00:00,2,10.0,42.89,593.0,5,Rainy,Full Moon,Denim,1105
+Gig_0094,V_Delta,2024-08-10 19:00:00,5,11.0,47.33,870.0,1,Rainy,Waxing Crescent,Spandex,969
+Gig_0095,V_Beta,09-01-2024 11:00,6,6.0,70.46,536.0,4,Stormy,Waning Crescent,Leather,1
+Gig_0096,V_Gamma,2024-08-15 19:00:00,3,9.0,$76.81,420.0,5,Rainy,First Quarter,Denim,1235
+Gig_0097,V_Delta,2024-03-07 22:00:00,3,5.0,46.22,413.0,1,Rainy,Waning Crescent,Leather,613
+Gig_0098,V_Beta,"June 02, 2024",6,3.0,70.15,850.0,1,Rainy,Last Quarter,Spandex,3
+Gig_0099,V_Alpha,2024-05-09 15:00:00,3,2.0,44.58,534.0,1,Cloudy,New Moon,Denim,910
+Gig_0100,V_Alpha,2024-05-05 16:00:00,6,,32.85,444.0,2,Cloudy,Waning Crescent,Velvet,644
+Gig_0101,V_Gamma,2024-07-11 17:00:00,3,0.0,76.73 USD,401.0,1,Clear,Waxing Crescent,Denim,1065
+Gig_0102,V_Gamma,2024-05-13 22:00:00,0,11.0,£64.20,548.0,3,Stormy,Waxing Crescent,Denim,990
+Gig_0103,V_Beta,02/03/2024 12:00 PM,5,2.0,38.18,960.0,1,Clear,Waning Gibbous,Leather,163
+Gig_0104,V_Delta,2024-06-08 19:00:00,5,6.0,45.62,590.0,2,Rainy,New Moon,Velvet,769
+Gig_0105,V_Delta,2024-03-01 17:00:00,4,7.0,29.73,454.0,2,Rainy,Waning Gibbous,Leather,1136
+Gig_0106,V_Alpha,2024-06-15 22:00:00,5,3.0,67.87,741.0,1,Rainy,First Quarter,Leather,928
+Gig_0107,V_Gamma,2024-06-16 23:00:00,6,3.0,$54.83 (VIP: $82.25),740.0,4,Cloudy,First Quarter,Velvet,1309
+Gig_0108,V_Alpha,2024-03-07 21:00:00,3,2.0,26.29,568.0,5,Stormy,Waning Crescent,Leather,977
+Gig_0109,V_Gamma,2024-07-24 21:00:00,2,1.0,$75.93,329.0,5,Rainy,Full Moon,Leather,1061
+Gig_0110,V_Gamma,2024-05-19 19:00:00,6,10.0,$44.93,852.0,5,Cloudy,First Quarter,Spandex,1189
+Gig_0111,V_Alpha,2024-08-18 20:00:00,6,3.0,46.85,,3,Cloudy,Waxing Gibbous,Spandex,1062
+Gig_0112,V_Beta,2024-06-18 22:00:00,1,4.0,56.18,676.0,4,Clear,Waxing Gibbous,Velvet,816
+Gig_0113,V_Delta,2024-03-17 23:00:00,6,3.0,43.48,549.0,2,Clear,Waxing Crescent,Spandex,932
+Gig_0114,V_Beta,17/03/2024 09:00 PM,6,8.0,46.39,551.0,5,Rainy,Waxing Crescent,Spandex,739
+Gig_0115,V_Delta,2024-07-24 18:00:00,2,7.0,40.69,422.0,5,Cloudy,Full Moon,Denim,720
+Gig_0116,V_Alpha,2024-04-25 16:00:00,3,2.0,60.36,325.0,4,Clear,Full Moon,Velvet,985
+Gig_0117,V_Gamma,2024-08-27 17:00:00,1,1.0,Free,388.0,2,Clear,Last Quarter,Velvet,1221
+Gig_0118,V_Beta,"August 12, 2024",0,9.0,23.64,433.0,1,Clear,First Quarter,Spandex,98
+Gig_0119,V_Delta,2024-09-04 13:00:00,2,8.0,45.32,596.0,5,Stormy,New Moon,Leather,873
+Gig_0120,V_Gamma,2024-08-17 21:00:00,5,3.0,$77.58,781.0,4,Stormy,Waxing Gibbous,Leather,1211
+Gig_0121,V_Alpha,2024-03-23 22:00:00,5,1.0,57.87,448.0,2,Rainy,Waxing Gibbous,Leather,929
+Gig_0122,V_Beta,2024-09-17 10:00:00,1,11.0,15.00,358.0,5,Cloudy,Waxing Gibbous,Leather,172
+Gig_0123,V_Gamma,2024-07-09 17:00:00,1,7.0,$80.67,440.0,3,Cloudy,New Moon,Spandex,1006
+Gig_0124,V_Delta,2024-04-17 14:00:00,2,9.0,39.04,494.0,5,Clear,First Quarter,Leather,1183
+Gig_0125,V_Alpha,2024-07-27 22:00:00,5,,70.23,934.0,2,Clear,Waning Gibbous,Velvet,569
+Gig_0126,V_Beta,08-08-2024 13:00,3,9.0,69.96,532.0,4,Clear,New Moon,Denim,332
+Gig_0127,V_Gamma,2024-05-15 23:00:00,2,8.0,£35.46,282.0,3,Cloudy,Waxing Crescent,Leather,991
+Gig_0128,V_Gamma,2024-04-20 18:00:00,5,3.0,€45.79,667.0,1,Cloudy,Waxing Gibbous,Leather,849
+Gig_0129,V_Alpha,2024-07-28 19:00:00,6,2.0,66.16,501.0,4,Cloudy,Waning Gibbous,Spandex,1143
+Gig_0130,V_Delta,2024-08-17 17:00:00,5,3.0,17.51,372.0,1,Clear,Waxing Gibbous,Leather,1005
+Gig_0131,V_Beta,2024-07-25 08:00:00,3,7.0,22.48,799.0,2,Clear,Waning Gibbous,Leather,0
+Gig_0132,V_Delta,2024-07-13 17:00:00,5,4.0,62.54,959.0,5,Stormy,Waxing Crescent,Leather,865
+Gig_0133,V_Gamma,2024-05-20 21:00:00,0,10.0,$111.90,458.0,4,Cloudy,Waxing Gibbous,Denim,1371
+Gig_0134,V_Gamma,2024-08-21 22:00:00,2,8.0,$78.83,619.0,2,Rainy,Full Moon,Spandex,765
+Gig_0135,V_Alpha,2024-09-03 17:00:00,1,1.0,58.43,669.0,5,Rainy,New Moon,Denim,878
+Gig_0136,V_Gamma,2024-03-11 20:00:00,0,3.0,85.38 USD,723.0,2,Rainy,New Moon,Leather,871
+Gig_0137,V_Delta,2024-09-07 23:00:00,5,3.0,40.21,593.0,5,Rainy,Waxing Crescent,Leather,852
+Gig_0138,V_Beta,"September 14, 2024",5,8.0,67.01,497.0,5,Clear,First Quarter,Spandex,0
+Gig_0139,V_Delta,2024-04-09 15:00:00,1,5.0,47.71,441.0,3,Stormy,New Moon,Denim,798
+Gig_0140,V_Beta,2024-03-18 11:00:00,0,7.0,49.69,251.0,4,Stormy,First Quarter,Leather,84
+Gig_0141,V_Gamma,2024-03-13 23:00:00,2,11.0,Free,496.0,4,Stormy,New Moon,Velvet,869
+Gig_0142,V_Alpha,2024-05-23 18:00:00,3,0.0,66.76,697.0,4,Clear,Full Moon,Velvet,894
+Gig_0143,V_Gamma,2024-06-02 15:00:00,6,6.0,$69.07 (VIP: $103.60),543.0,2,Stormy,Last Quarter,Velvet,458
+Gig_0144,V_Gamma,2024-08-18 23:00:00,6,4.0,$57.46,522.0,1,Rainy,Waxing Gibbous,Leather,837
+Gig_0145,V_Beta,08-15-2024 08:00,3,8.0,69.13,470.0,2,Stormy,First Quarter,Denim,0
+Gig_0146,V_Delta,2024-08-11 17:00:00,6,1.0,34.42,679.0,3,Rainy,Waxing Crescent,Leather,306
+Gig_0147,V_Gamma,2024-05-31 18:00:00,4,9.0,$49.96,529.0,3,Clear,Last Quarter,Denim,629
+Gig_0148,V_Gamma,2024-04-22 17:00:00,0,1.0,59.08 USD,487.0,1,Rainy,Waxing Gibbous,Denim,923
+Gig_0149,V_Alpha,2024-08-01 19:00:00,3,,57.79,566.0,5,Stormy,Waning Crescent,Spandex,746
+Gig_0150,V_Delta,2024-03-17 14:00:00,6,4.0,39.83,863.0,2,Cloudy,Waxing Crescent,Denim,1070
+Gig_0151,V_Beta,2024-05-24 20:00:00,4,7.0,15.71,620.0,4,Clear,Full Moon,Leather,950
+Gig_0152,V_Delta,2024-03-19 19:00:00,1,6.0,49.92,433.0,5,Stormy,First Quarter,Leather,456
+Gig_0153,V_Alpha,2024-04-20 22:00:00,5,5.0,60.32,533.0,1,Clear,Waxing Gibbous,Velvet,972
+Gig_0154,V_Gamma,2024-04-14 23:00:00,6,4.0,63,600.0,1,Clear,Waxing Crescent,Velvet,893
+Gig_0155,V_Delta,2024-08-13 23:00:00,1,11.0,28.20,146.0,4,Stormy,First Quarter,Spandex,842
+Gig_0156,V_Delta,2024-08-30 17:00:00,4,1.0,38.95,768.0,4,Clear,Last Quarter,Denim,690
+Gig_0157,V_Alpha,2024-05-16 19:00:00,3,,52.35,284.0,4,Stormy,First Quarter,Denim,656
+Gig_0158,V_Gamma,2024-06-03 14:00:00,0,6.0,$103.89,583.0,1,Cloudy,Waning Crescent,Leather,975
+Gig_0159,V_Beta,"March 31, 2024",6,1.0,66.21,412.0,4,Stormy,Waning Gibbous,Spandex,0
+Gig_0160,V_Gamma,2024-03-09 19:00:00,5,4.0,95.52 USD,506.0,3,Cloudy,Waning Crescent,Leather,1202
+Gig_0161,V_Gamma,2024-04-08 23:00:00,0,6.0,87.81 USD,371.0,5,Stormy,Waning Crescent,Leather,1231
+Gig_0162,V_Gamma,2024-04-27 23:00:00,5,9.0,£52.43,155.0,1,Stormy,Waning Gibbous,Leather,1139
+Gig_0163,V_Beta,23/04/2024 10:00 PM,1,6.0,66.43,638.0,2,Stormy,Waxing Gibbous,Spandex,680
+Gig_0164,V_Beta,19/05/2024 07:00 PM,6,3.0,66.95,641.0,2,Stormy,First Quarter,Velvet,661
+Gig_0165,V_Delta,2024-05-24 20:00:00,4,8.0,51.82,430.0,4,Stormy,Full Moon,Leather,848
+Gig_0166,V_Gamma,2024-06-20 18:00:00,3,5.0,82,497.0,1,Stormy,Waxing Gibbous,Velvet,1353
+Gig_0167,V_Delta,2024-03-26 20:00:00,1,10.0,59.26,623.0,3,Stormy,Full Moon,Leather,729
+Gig_0168,V_Beta,"April 29, 2024",0,1.0,39.44,508.0,2,Stormy,Waning Gibbous,Leather,184
+Gig_0169,V_Delta,2024-08-21 22:00:00,2,10.0,24.92,425.0,3,Rainy,Full Moon,Denim,1001
+Gig_0170,V_Gamma,2024-04-14 22:00:00,6,9.0,$87.78,494.0,2,Stormy,Waxing Crescent,Denim,985
+Gig_0171,V_Alpha,2024-07-28 22:00:00,6,,29.65,778.0,5,Clear,Waning Gibbous,Spandex,933
+Gig_0172,V_Beta,2024-04-13 12:00:00,5,6.0,45.90,0.0,5,Rainy,Waxing Crescent,Velvet,130
+Gig_0173,V_Beta,17/05/2024 09:00 PM,4,7.0,96.30,550.0,2,Rainy,First Quarter,Denim,898
+Gig_0174,V_Delta,2024-05-08 19:00:00,2,10.0,60.62,376.0,2,Rainy,New Moon,Denim,783
+Gig_0175,V_Gamma,2024-04-18 23:00:00,3,10.0,£75.22,513.0,5,Clear,First Quarter,Velvet,1373
+Gig_0176,V_Gamma,2024-09-13 17:00:00,4,4.0,€59.12,876.0,5,Stormy,First Quarter,Denim,1160
+Gig_0177,V_Alpha,2024-04-16 22:00:00,1,3.0,44.54,655.0,3,Rainy,First Quarter,Denim,930
+Gig_0178,V_Gamma,2024-03-11 23:00:00,0,2.0,58,489.0,2,Clear,New Moon,Leather,789
+Gig_0179,V_Gamma,2024-04-25 22:00:00,3,2.0,$78.21 (VIP: $117.31),529.0,2,Stormy,Full Moon,Velvet,1144
+Gig_0180,V_Delta,2024-04-14 21:00:00,6,2.0,45.76,726.0,5,Clear,Waxing Crescent,Denim,878
+Gig_0181,V_Beta,2024-08-15 21:00:00,3,2.0,89.77,294.0,4,Rainy,First Quarter,Leather,1038
+Gig_0182,V_Beta,2024-08-20 13:00:00,1,5.0,35.49,658.0,2,Stormy,Full Moon,Leather,113
+Gig_0183,V_Beta,27/07/2024 11:00 AM,5,6.0,50.20,702.0,4,Clear,Waning Gibbous,Leather,0
+Gig_0184,V_Delta,2024-05-19 22:00:00,6,7.0,23.45,541.0,4,Rainy,First Quarter,Denim,987
+Gig_0185,V_Beta,04-19-2024 15:00,4,4.0,50.26,625.0,3,Stormy,First Quarter,Leather,125
+Gig_0186,V_Beta,08-21-2024 10:00,2,10.0,56.07,271.0,2,Rainy,Full Moon,Leather,0
+Gig_0187,V_Beta,Morning,0,8.0,15.76,297.0,1,Clear,Waning Gibbous,Leather,0
+Gig_0188,V_Gamma,2024-08-08 20:00:00,3,3.0,€67.95,744.0,1,Stormy,New Moon,Spandex,1026
+Gig_0189,V_Delta,2024-04-29 23:00:00,0,9.0,39.37,527.0,2,Stormy,Waning Gibbous,Denim,888
+Gig_0190,V_Alpha,2024-05-08 22:00:00,2,5.0,42.07,534.0,5,Cloudy,New Moon,Velvet,1178
+Gig_0191,V_Gamma,2024-04-30 20:00:00,1,3.0,$90.99 (VIP: $136.48),314.0,5,Rainy,Waning Gibbous,Velvet,1415
+Gig_0192,V_Beta,2024-03-03 18:00:00,6,11.0,64.92,442.0,1,Stormy,Last Quarter,Spandex,875
+Gig_0193,V_Gamma,2024-07-03 21:00:00,2,2.0,$70.18,601.0,2,Stormy,Waning Crescent,Denim,1198
+Gig_0194,V_Gamma,2024-07-08 19:00:00,0,2.0,$71.31,,4,Cloudy,New Moon,Spandex,1129
+Gig_0195,V_Alpha,2024-09-11 21:00:00,2,0.0,31.24,511.0,1,Rainy,First Quarter,Denim,385
+Gig_0196,V_Beta,06-21-2024 23:00,4,8.0,61.53,542.0,3,Clear,Waxing Gibbous,Leather,850
+Gig_0197,V_Delta,2024-07-01 18:00:00,0,6.0,55.77,100.0,3,Clear,Last Quarter,Spandex,695
+Gig_0198,V_Beta,"May 31, 2024",4,5.0,57.48,557.0,3,Clear,Last Quarter,Leather,0
+Gig_0199,V_Alpha,2024-03-03 16:00:00,6,,23.65,650.0,3,Cloudy,Last Quarter,Leather,221
+Gig_0200,V_Delta,2024-06-08 19:00:00,5,3.0,56.04,941.0,2,Rainy,New Moon,Velvet,741
+Gig_0201,V_Beta,2024-08-14 08:00:00,2,11.0,66.87,672.0,3,Rainy,First Quarter,Velvet,0
+Gig_0202,V_Delta,2024-09-10 22:00:00,1,3.0,38.82,698.0,5,Rainy,Waxing Crescent,Velvet,1089
+Gig_0203,V_Delta,2024-06-04 23:00:00,1,7.0,30.07,687.0,2,Cloudy,Waning Crescent,Leather,887
+Gig_0204,V_Gamma,2024-09-13 21:00:00,4,7.0,$70.52,448.0,5,Stormy,First Quarter,Leather,1065
+Gig_0205,V_Alpha,2024-08-28 19:00:00,2,4.0,66.82,480.0,4,Rainy,Last Quarter,Denim,846
+Gig_0206,V_Beta,04-09-2024 20:00,1,10.0,39.92,650.0,3,Stormy,New Moon,Denim,440
+Gig_0207,V_Gamma,2024-08-30 23:00:00,4,1.0,$63.20,360.0,4,Cloudy,Last Quarter,Denim,1146
+Gig_0208,V_Delta,2024-08-19 18:00:00,0,1.0,23.51,430.0,2,Clear,Waxing Gibbous,Velvet,521
+Gig_0209,V_Gamma,2024-04-04 23:00:00,3,5.0,60.19 USD,747.0,2,Stormy,Last Quarter,Denim,467
+Gig_0210,V_Beta,2024-08-19 12:00:00,0,11.0,70.12,513.0,2,Rainy,Waxing Gibbous,Spandex,2
+Gig_0211,V_Beta,2024-04-14 20:00:00,6,11.0,16.20,345.0,3,Stormy,Waxing Crescent,Leather,1342
+Gig_0212,V_Delta,2024-03-15 17:00:00,4,7.0,31.89,579.0,5,Stormy,Waxing Crescent,Leather,740
+Gig_0213,V_Gamma,2024-09-17 18:00:00,1,11.0,Free,351.0,3,Rainy,Waxing Gibbous,Velvet,765
+Gig_0214,V_Alpha,2024-04-29 22:00:00,0,,67.52,716.0,3,Clear,Waning Gibbous,Spandex,1043
+Gig_0215,V_Beta,06-15-2024 05:00,5,5.0,76.21,841.0,4,Stormy,First Quarter,Velvet,8
+Gig_0216,V_Alpha,2024-03-15 14:00:00,4,4.0,60.75,407.0,2,Stormy,Waxing Crescent,Denim,1157
+Gig_0217,V_Delta,2024-04-28 18:00:00,6,2.0,34.20,706.0,5,Stormy,Waning Gibbous,Spandex,702
+Gig_0218,V_Alpha,2024-08-07 20:00:00,2,,63.33,569.0,3,Rainy,New Moon,Spandex,230
+Gig_0219,V_Beta,"March 06, 2024",2,2.0,64.54,458.0,1,Stormy,Last Quarter,Velvet,964
+Gig_0220,V_Delta,2024-05-14 19:00:00,1,11.0,41.04,526.0,2,Cloudy,Waxing Crescent,Spandex,1043
+Gig_0221,V_Delta,2024-08-08 18:00:00,3,11.0,25.33,375.0,2,Rainy,New Moon,Leather,1149
+Gig_0222,V_Beta,2024-03-09 13:00:00,5,11.0,44.80,461.0,5,Rainy,Waning Crescent,Velvet,324
+Gig_0223,V_Gamma,2024-05-11 20:00:00,5,8.0,£48.95,898.0,3,Rainy,New Moon,Leather,1084
+Gig_0224,V_Delta,2024-05-22 11:00:00,2,3.0,37.05,100.0,2,Rainy,Waxing Gibbous,Leather,788
+Gig_0225,V_Alpha,2024-06-04 19:00:00,1,0.0,82.33,266.0,2,Cloudy,Waning Crescent,Denim,99
+Gig_0226,V_Delta,2024-03-15 18:00:00,4,1.0,47.55,,3,Clear,Waxing Crescent,Spandex,1014
+Gig_0227,V_Delta,2024-09-02 18:00:00,0,6.0,37.88,647.0,1,Rainy,Waning Crescent,Spandex,992
+Gig_0228,V_Beta,"September 13, 2024",4,5.0,52.01,622.0,4,Rainy,First Quarter,Spandex,146
+Gig_0229,V_Delta,2024-07-29 18:00:00,0,11.0,47.20,684.0,3,Rainy,Last Quarter,Leather,1025
+Gig_0230,V_Gamma,2024-05-12 23:00:00,6,8.0,$95.14,794.0,5,Cloudy,Waxing Crescent,Velvet,1395
+Gig_0231,V_Delta,2024-06-03 16:00:00,0,9.0,43.85,544.0,5,Cloudy,Waning Crescent,Spandex,888
+Gig_0232,V_Beta,2024-06-26 09:00:00,2,8.0,73.61,694.0,5,Clear,Waning Gibbous,Denim,107
+Gig_0233,V_Beta,06/04/2024 09:00 AM,5,11.0,28.25,824.0,4,Clear,Waning Crescent,Leather,58
+Gig_0234,V_Gamma,2024-06-09 16:00:00,6,11.0,£53.16,369.0,4,Rainy,New Moon,Spandex,811
+Gig_0235,V_Beta,05-24-2024 14:00,4,1.0,19.91,572.0,2,Rainy,Full Moon,Spandex,0
+Gig_0236,V_Beta,08-05-2024 08:00,0,3.0,27.59,766.0,3,Rainy,New Moon,Velvet,64
+Gig_0237,V_Delta,2024-04-05 16:00:00,4,10.0,41.16,590.0,5,Stormy,Waning Crescent,Leather,1317
+Gig_0238,V_Delta,2024-09-08 19:00:00,6,4.0,33.08,717.0,1,Clear,Waxing Crescent,Spandex,614
+Gig_0239,V_Beta,"August 19, 2024",0,3.0,47.39,664.0,2,Clear,Waxing Gibbous,Spandex,2
+Gig_0240,V_Delta,2024-05-27 23:00:00,0,6.0,40.12,387.0,2,Stormy,Waning Gibbous,Spandex,699
+Gig_0241,V_Delta,2024-07-22 20:00:00,0,2.0,51.96,285.0,5,Cloudy,Full Moon,Denim,492
+Gig_0242,V_Delta,2024-08-25 16:00:00,6,3.0,20.57,306.0,5,Stormy,Waning Gibbous,Leather,369
+Gig_0243,V_Beta,23/05/2024 10:00 AM,3,4.0,43.92,506.0,3,Clear,Full Moon,Leather,82
+Gig_0244,V_Beta,11/09/2024 10:00 PM,2,7.0,64.81,540.0,3,Stormy,First Quarter,Velvet,704
+Gig_0245,V_Alpha,2024-03-05 18:00:00,1,,47.64,455.0,1,Clear,Last Quarter,Spandex,594
+Gig_0246,V_Beta,08-31-2024 06:00,5,2.0,57.00,504.0,2,Cloudy,Waning Crescent,Leather,0
+Gig_0247,V_Beta,Morning,6,4.0,71.25,721.0,2,Rainy,Waning Crescent,Leather,24
+Gig_0248,V_Delta,2024-03-06 18:00:00,2,1.0,46.49,390.0,1,Rainy,Last Quarter,Spandex,623
+Gig_0249,V_Delta,2024-05-24 19:00:00,4,9.0,45.40,647.0,2,Rainy,Full Moon,Velvet,1187
+Gig_0250,V_Delta,2024-09-06 19:00:00,4,8.0,49.32,637.0,5,Rainy,New Moon,Denim,706
+Gig_0251,V_Alpha,2024-06-17 17:00:00,0,2.0,40.97,496.0,4,Clear,First Quarter,Leather,1110
+Gig_0252,V_Gamma,2024-08-17 23:00:00,5,2.0,$52.90,342.0,2,Stormy,Waxing Gibbous,Spandex,1185
+Gig_0253,V_Beta,21/07/2024 09:00 PM,6,3.0,101.04,170.0,2,Rainy,Full Moon,Velvet,778
+Gig_0254,V_Beta,12/04/2024 09:00 PM,4,2.0,64.37,741.0,3,Cloudy,New Moon,Velvet,594
+Gig_0255,V_Alpha,2024-05-01 19:00:00,2,4.0,72.82,416.0,1,Cloudy,Last Quarter,Leather,697
+Gig_0256,V_Gamma,2024-06-01 14:00:00,5,2.0,46.61 USD,652.0,2,Cloudy,Last Quarter,Velvet,461
+Gig_0257,V_Alpha,2024-03-17 20:00:00,6,5.0,62.92,726.0,1,Stormy,Waxing Crescent,Velvet,608
+Gig_0258,V_Beta,"June 03, 2024",0,6.0,57.71,566.0,4,Rainy,Waning Crescent,Leather,1019
+Gig_0259,V_Delta,2024-07-03 12:00:00,2,1.0,47.78,371.0,1,Clear,Waning Crescent,Velvet,406
+Gig_0260,V_Alpha,2024-03-26 23:00:00,1,,18.00,624.0,4,Rainy,Full Moon,Denim,781
+Gig_0261,V_Alpha,2024-07-19 13:00:00,4,,52.85,533.0,2,Cloudy,Waxing Gibbous,Denim,356
+Gig_0262,V_Beta,2024-04-03 11:00:00,2,10.0,70.84,513.0,2,Cloudy,Last Quarter,Leather,31
+Gig_0263,V_Gamma,2024-03-17 16:00:00,6,8.0,$61.15 (VIP: $91.72),557.0,1,Clear,Waxing Crescent,Leather,581
+Gig_0264,V_Gamma,2024-07-07 18:00:00,6,2.0,$87.56,1049.0,3,Stormy,New Moon,Velvet,1175
+Gig_0265,V_Delta,2024-05-26 21:00:00,6,2.0,52.98,950.0,2,Stormy,Full Moon,Velvet,779
+Gig_0266,V_Beta,09-17-2024 20:00,1,10.0,70.85,433.0,5,Cloudy,Waxing Gibbous,Leather,882
+Gig_0267,V_Gamma,2024-07-06 21:00:00,5,11.0,$65.17,795.0,5,Cloudy,New Moon,Velvet,782
+Gig_0268,V_Beta,"April 20, 2024",5,4.0,38.29,598.0,4,Cloudy,Waxing Gibbous,Denim,91
+Gig_0269,V_Alpha,2024-03-24 19:00:00,6,,71.16,0.0,2,Stormy,Waxing Gibbous,Denim,682
+Gig_0270,V_Delta,2024-05-19 23:00:00,6,6.0,43.68,427.0,5,Cloudy,First Quarter,Velvet,905
+Gig_0271,V_Alpha,2024-09-02 20:00:00,0,,77.30,568.0,1,Stormy,Waning Crescent,Velvet,483
+Gig_0272,V_Beta,2024-07-01 10:00:00,0,7.0,68.12,686.0,2,Stormy,Last Quarter,Spandex,22
+Gig_0273,V_Alpha,2024-05-10 18:00:00,4,3.0,58.46,554.0,2,Clear,New Moon,Spandex,761
+Gig_0274,V_Alpha,2024-08-04 15:00:00,6,0.0,22.33,668.0,3,Cloudy,Waning Crescent,Leather,722
+Gig_0275,V_Delta,2024-05-15 19:00:00,2,2.0,48.75,323.0,2,Clear,Waxing Crescent,Spandex,641
+Gig_0276,V_Delta,2024-06-03 19:00:00,0,7.0,26.92,348.0,1,Cloudy,Waning Crescent,Leather,211
+Gig_0277,V_Beta,Morning,2,8.0,83.50,528.0,5,Rainy,Waxing Crescent,Spandex,7
+Gig_0278,V_Delta,2024-03-19 21:00:00,1,4.0,52.67,255.0,2,Rainy,First Quarter,Velvet,733
+Gig_0279,V_Gamma,2024-04-03 18:00:00,2,6.0,$72.24,668.0,2,Cloudy,Last Quarter,Spandex,1241
+Gig_0280,V_Alpha,2024-06-12 22:00:00,2,,26.48,227.0,2,Stormy,Waxing Crescent,Denim,721
+Gig_0281,V_Delta,2024-09-09 17:00:00,0,3.0,53.04,456.0,1,Cloudy,Waxing Crescent,Spandex,382
+Gig_0282,V_Alpha,2024-08-31 23:00:00,5,4.0,59.64,681.0,4,Stormy,Waning Crescent,Denim,1117
+Gig_0283,V_Beta,15/05/2024 08:00 PM,2,5.0,62.01,446.0,3,Clear,Waxing Crescent,Leather,785
+Gig_0284,V_Beta,22/06/2024 11:00 AM,5,4.0,51.94,581.0,1,Clear,Full Moon,Leather,0
+Gig_0285,V_Gamma,2024-05-15 23:00:00,2,3.0,Free,447.0,4,Clear,Waxing Crescent,Velvet,694
+Gig_0286,V_Beta,09-12-2024 20:00,3,8.0,25.67,703.0,2,Clear,First Quarter,Denim,564
+Gig_0287,V_Beta,Late Night,0,3.0,58.50,552.0,2,Clear,Waning Gibbous,Denim,493
+Gig_0288,V_Alpha,2024-03-24 23:00:00,6,4.0,51.49,559.0,4,Stormy,Waxing Gibbous,Denim,975
+Gig_0289,V_Gamma,2024-04-16 15:00:00,1,7.0,$100.10,523.0,4,Clear,First Quarter,Velvet,1266
+Gig_0290,V_Alpha,2024-08-25 15:00:00,6,,27.37,575.0,3,Rainy,Waning Gibbous,Spandex,744
+Gig_0291,V_Delta,2024-08-01 18:00:00,3,11.0,32.91,404.0,3,Clear,Waning Crescent,Leather,1150
+Gig_0292,V_Beta,2024-04-14 11:00:00,6,4.0,48.23,453.0,3,Rainy,Waxing Crescent,Leather,53
+Gig_0293,V_Delta,2024-03-05 17:00:00,1,7.0,43.64,629.0,2,Cloudy,Last Quarter,Velvet,629
+Gig_0294,V_Delta,2024-09-17 17:00:00,1,9.0,39.30,397.0,4,Cloudy,Waxing Gibbous,Spandex,1239
+Gig_0295,V_Beta,03-29-2024 09:00,4,4.0,44.22,422.0,5,Stormy,Waning Gibbous,Leather,107
+Gig_0296,V_Gamma,2024-03-20 20:00:00,2,4.0,€80.40,505.0,3,Clear,First Quarter,Denim,1232
+Gig_0297,V_Beta,Late Night,3,8.0,62.96,502.0,4,Clear,First Quarter,Leather,729
+Gig_0298,V_Delta,2024-06-25 23:00:00,1,4.0,55.50,256.0,2,Stormy,Waning Gibbous,Spandex,771
+Gig_0299,V_Alpha,2024-07-24 20:00:00,2,,44.70,535.0,5,Stormy,Full Moon,Velvet,259
+Gig_0300,V_Beta,2024-04-20 13:00:00,5,1.0,60.58,552.0,2,Rainy,Waxing Gibbous,Leather,0
+Gig_0301,V_Beta,2024-05-06 11:00:00,0,7.0,61.50,537.0,3,Rainy,Waning Crescent,Denim,0
+Gig_0302,V_Alpha,2024-03-02 21:00:00,5,5.0,70.94,707.0,5,Cloudy,Waning Gibbous,Denim,861
+Gig_0303,V_Delta,2024-08-18 17:00:00,6,2.0,43.51,1078.0,1,Cloudy,Waxing Gibbous,Leather,804
+Gig_0304,V_Delta,2024-06-13 23:00:00,3,11.0,44.13,351.0,5,Cloudy,Waxing Crescent,Leather,1184
+Gig_0305,V_Gamma,2024-06-28 23:00:00,4,8.0,83.14 USD,366.0,4,Rainy,Waning Gibbous,Velvet,1194
+Gig_0306,V_Beta,03-24-2024 23:00,6,7.0,66.38,563.0,1,Cloudy,Waxing Gibbous,Leather,1099
+Gig_0307,V_Beta,Late Night,2,1.0,60.10,352.0,1,Stormy,New Moon,Velvet,650
+Gig_0308,V_Beta,"August 03, 2024",5,11.0,78.02,641.0,1,Rainy,Waning Crescent,Denim,0
+Gig_0309,V_Gamma,2024-08-17 22:00:00,5,6.0,Free,782.0,5,Cloudy,Waxing Gibbous,Spandex,1052
+Gig_0310,V_Beta,2024-05-18 10:00:00,5,9.0,57.74,868.0,2,Stormy,First Quarter,Spandex,20
+Gig_0311,V_Alpha,2024-05-17 21:00:00,4,5.0,70.33,768.0,3,Stormy,First Quarter,Leather,1101
+Gig_0312,V_Alpha,2024-08-15 23:00:00,3,2.0,45.89,481.0,5,Clear,First Quarter,Spandex,840
+Gig_0313,V_Gamma,2024-09-03 17:00:00,1,2.0,$31.72,408.0,3,Clear,New Moon,Leather,677
+Gig_0314,V_Beta,12/03/2024 12:00 PM,1,9.0,15.00,552.0,5,Stormy,New Moon,Velvet,0
+Gig_0315,V_Alpha,2024-04-02 18:00:00,1,5.0,52.84,398.0,3,Cloudy,Last Quarter,Velvet,724
+Gig_0316,V_Delta,2024-05-09 17:00:00,3,10.0,16.14,361.0,2,Rainy,New Moon,Denim,852
+Gig_0317,V_Beta,Morning,4,8.0,51.60,493.0,4,Rainy,Waning Gibbous,Leather,0
+Gig_0318,V_Alpha,2024-04-13 23:00:00,5,5.0,58.11,1101.0,4,Stormy,Waxing Crescent,Velvet,1096
+Gig_0319,V_Alpha,2024-05-26 18:00:00,6,5.0,57.00,319.0,5,Clear,Full Moon,Spandex,703
+Gig_0320,V_Beta,2024-07-02 10:00:00,1,3.0,45.93,326.0,3,Cloudy,Last Quarter,Spandex,126
+Gig_0321,V_Gamma,2024-05-22 16:00:00,2,9.0,Free,587.0,3,Clear,Waxing Gibbous,Leather,886
+Gig_0322,V_Alpha,2024-08-11 22:00:00,6,,70.70,790.0,5,Rainy,Waxing Crescent,Leather,878
+Gig_0323,V_Gamma,2024-05-05 18:00:00,6,4.0,$75.68 (VIP: $113.52),539.0,5,Cloudy,Waning Crescent,Leather,1381
+Gig_0324,V_Beta,29/06/2024 10:00 AM,5,5.0,55.34,199.0,5,Rainy,Last Quarter,Leather,158
+Gig_0325,V_Gamma,2024-08-23 18:00:00,4,8.0,$52.28,512.0,5,Cloudy,Waning Gibbous,Spandex,744
+Gig_0326,V_Delta,2024-08-26 20:00:00,0,6.0,35.46,714.0,4,Stormy,Waning Gibbous,Denim,737
+Gig_0327,V_Alpha,2024-07-29 20:00:00,0,,32.26,872.0,1,Stormy,Last Quarter,Denim,669
+Gig_0328,V_Gamma,2024-07-05 16:00:00,4,2.0,75.86 USD,721.0,3,Cloudy,Waning Crescent,Spandex,1053
+Gig_0329,V_Alpha,2024-04-01 23:00:00,0,3.0,52.37,,4,Cloudy,Waning Gibbous,Spandex,893
+Gig_0330,V_Beta,2024-08-20 21:00:00,1,11.0,62.29,268.0,3,Clear,Full Moon,Leather,839
+Gig_0331,V_Beta,2024-05-31 14:00:00,4,2.0,62.86,527.0,4,Clear,Last Quarter,Spandex,53
+Gig_0332,V_Delta,2024-03-14 21:00:00,3,8.0,44.69,608.0,2,Rainy,Waxing Crescent,Spandex,857
+Gig_0333,V_Alpha,2024-04-24 18:00:00,2,0.0,63.81,518.0,2,Rainy,Full Moon,Denim,497
+Gig_0334,V_Alpha,2024-07-19 23:00:00,4,3.0,53.45,703.0,1,Rainy,Waxing Gibbous,Denim,698
+Gig_0335,V_Gamma,2024-03-10 23:00:00,6,9.0,$86.26 (VIP: $129.39),557.0,2,Stormy,New Moon,Spandex,920
+Gig_0336,V_Delta,2024-05-28 21:00:00,1,3.0,33.34,676.0,3,Clear,Waning Gibbous,Denim,1062
+Gig_0337,V_Beta,Late Night,1,4.0,61.80,750.0,5,Clear,Waxing Gibbous,Leather,922
+Gig_0338,V_Gamma,2024-08-04 22:00:00,6,2.0,$74.34,677.0,5,Clear,Waning Crescent,Spandex,1290
+Gig_0339,V_Alpha,2024-07-20 18:00:00,5,0.0,80.68,682.0,1,Cloudy,Waxing Gibbous,Leather,757
+Gig_0340,V_Delta,2024-07-13 20:00:00,5,7.0,35.91,881.0,4,Clear,Waxing Crescent,Velvet,773
+Gig_0341,V_Alpha,2024-04-28 23:00:00,6,2.0,64.30,354.0,2,Clear,Waning Gibbous,Spandex,816
+Gig_0342,V_Delta,2024-09-13 21:00:00,4,4.0,33.40,671.0,2,Clear,First Quarter,Spandex,823
+Gig_0343,V_Gamma,2024-08-01 19:00:00,3,1.0,£64.04,476.0,4,Stormy,Waning Crescent,Leather,1238
+Gig_0344,V_Delta,2024-07-02 19:00:00,1,5.0,47.41,409.0,1,Rainy,Last Quarter,Denim,448
+Gig_0345,V_Delta,2024-07-03 23:00:00,2,4.0,48.91,472.0,1,Stormy,Waning Crescent,Velvet,635
+Gig_0346,V_Gamma,2024-07-07 23:00:00,6,4.0,68,417.0,4,Cloudy,New Moon,Leather,1252
+Gig_0347,V_Gamma,2024-04-04 23:00:00,3,6.0,$55.21 (VIP: $82.81),904.0,1,Clear,Last Quarter,Velvet,642
+Gig_0348,V_Delta,2024-09-07 20:00:00,5,2.0,45.41,424.0,4,Cloudy,Waxing Crescent,Velvet,693
+Gig_0349,V_Gamma,2024-05-21 21:00:00,1,8.0,$93.88,683.0,5,Clear,Waxing Gibbous,Velvet,1359
+Gig_0350,V_Gamma,2024-03-08 15:00:00,4,3.0,$81.74,317.0,4,Stormy,Waning Crescent,Spandex,1344
+Gig_0351,V_Delta,2024-09-04 16:00:00,2,8.0,30.71,294.0,5,Cloudy,New Moon,Spandex,434
+Gig_0352,V_Gamma,2024-09-12 15:00:00,3,6.0,71.53 USD,555.0,5,Stormy,First Quarter,Leather,1221
+Gig_0353,V_Beta,26/07/2024 01:00 PM,4,8.0,66.19,476.0,3,Stormy,Waning Gibbous,Spandex,115
+Gig_0354,V_Alpha,2024-05-10 17:00:00,4,,65.33,478.0,2,Rainy,New Moon,Denim,673
+Gig_0355,V_Beta,08-29-2024 23:00,3,9.0,105.87,689.0,3,Stormy,Last Quarter,Velvet,463
+Gig_0356,V_Alpha,2024-07-01 22:00:00,0,3.0,59.81,503.0,4,Cloudy,Last Quarter,Leather,1111
+Gig_0357,V_Alpha,2024-03-01 22:00:00,4,0.0,25.47,339.0,1,Cloudy,Waning Gibbous,Leather,534
+Gig_0358,V_Beta,"May 23, 2024",3,3.0,62.36,538.0,3,Rainy,Full Moon,Velvet,741
+Gig_0359,V_Alpha,2024-09-08 23:00:00,6,3.0,50.27,413.0,5,Clear,Waxing Crescent,Spandex,1056
+Gig_0360,V_Gamma,2024-05-24 22:00:00,4,9.0,$72.69,458.0,2,Stormy,Full Moon,Leather,1075
+Gig_0361,V_Delta,2024-05-19 19:00:00,6,4.0,68.68,381.0,5,Clear,First Quarter,Leather,591
+Gig_0362,V_Gamma,2024-05-06 22:00:00,0,3.0,$65.85,461.0,4,Cloudy,Waning Crescent,Denim,1178
+Gig_0363,V_Alpha,2024-03-25 16:00:00,0,2.0,60.92,401.0,2,Stormy,Full Moon,Leather,601
+Gig_0364,V_Alpha,2024-09-14 23:00:00,5,4.0,74.13,985.0,2,Stormy,First Quarter,Spandex,879
+Gig_0365,V_Alpha,2024-05-21 21:00:00,1,0.0,52.08,360.0,1,Cloudy,Waxing Gibbous,Spandex,528
+Gig_0366,V_Beta,04-14-2024 22:00,6,6.0,59.86,409.0,5,Cloudy,Waxing Crescent,Leather,1465
+Gig_0367,V_Gamma,2024-05-31 23:00:00,4,10.0,£53.24,387.0,3,Stormy,Last Quarter,Spandex,1087
+Gig_0368,V_Delta,2024-05-08 21:00:00,2,9.0,27.63,451.0,1,Clear,New Moon,Leather,539
+Gig_0369,V_Delta,2024-05-15 18:00:00,2,1.0,37.30,338.0,2,Cloudy,Waxing Crescent,Velvet,596
+Gig_0370,V_Delta,2024-04-10 23:00:00,2,6.0,44.83,675.0,3,Stormy,New Moon,Spandex,690
+Gig_0371,V_Beta,2024-09-15 13:00:00,6,3.0,54.67,521.0,2,Cloudy,Waxing Gibbous,Leather,369
+Gig_0372,V_Gamma,2024-04-18 22:00:00,3,-5.0,$111.84,447.0,4,Cloudy,First Quarter,Leather,821
+Gig_0373,V_Gamma,2024-05-05 17:00:00,6,6.0,$83.77,678.0,5,Rainy,Waning Crescent,Leather,1385
+Gig_0374,V_Alpha,2024-09-06 23:00:00,4,,47.10,473.0,1,Rainy,New Moon,Spandex,662
+Gig_0375,V_Delta,2024-03-12 19:00:00,1,3.0,47.01,321.0,1,Clear,New Moon,Denim,734
+Gig_0376,V_Beta,04-22-2024 11:00,0,4.0,65.19,0.0,4,Rainy,Waxing Gibbous,Spandex,81
+Gig_0377,V_Alpha,2024-09-08 13:00:00,6,4.0,44.64,835.0,5,Clear,Waxing Crescent,Velvet,817
+Gig_0378,V_Alpha,2024-08-02 18:00:00,4,,68.10,,2,Rainy,Waning Crescent,Leather,474
+Gig_0379,V_Delta,2024-08-22 21:00:00,3,10.0,20.95,691.0,2,Rainy,Full Moon,Denim,1118
+Gig_0380,V_Delta,2024-04-17 17:00:00,2,1.0,36.41,532.0,1,Stormy,First Quarter,Leather,765
+Gig_0381,V_Gamma,2024-05-01 22:00:00,2,2.0,Free,350.0,5,Stormy,Last Quarter,Velvet,1189
+Gig_0382,V_Delta,2024-06-02 17:00:00,6,6.0,53.48,382.0,5,Clear,Last Quarter,Leather,856
+Gig_0383,V_Alpha,2024-08-27 16:00:00,1,1.0,55.96,707.0,5,Cloudy,Last Quarter,Spandex,833
+Gig_0384,V_Delta,2024-05-08 12:00:00,2,1.0,35.86,224.0,4,Cloudy,New Moon,Velvet,873
+Gig_0385,V_Delta,2024-09-04 21:00:00,2,1.0,47.09,273.0,3,Cloudy,New Moon,Leather,533
+Gig_0386,V_Beta,06-24-2024 12:00,0,5.0,68.97,596.0,5,Cloudy,Full Moon,Spandex,59
+Gig_0387,V_Beta,Late Night,4,7.0,27.53,667.0,1,Rainy,Waning Crescent,Leather,816
+Gig_0388,V_Delta,2024-03-03 22:00:00,6,8.0,45.29,759.0,4,Rainy,Last Quarter,Spandex,1334
+Gig_0389,V_Delta,2024-08-09 17:00:00,4,7.0,41.09,343.0,5,Cloudy,Waxing Crescent,Leather,717
+Gig_0390,V_Delta,2024-07-15 18:00:00,0,6.0,66.52,671.0,3,Cloudy,First Quarter,Denim,819
+Gig_0391,V_Gamma,2024-07-14 16:00:00,6,6.0,£73.80,512.0,5,Cloudy,First Quarter,Velvet,1093
+Gig_0392,V_Gamma,2024-09-11 16:00:00,2,11.0,€73.14,337.0,4,Rainy,First Quarter,Denim,872
+Gig_0393,V_Beta,31/07/2024 08:00 AM,2,10.0,20.18,301.0,1,Rainy,Last Quarter,Velvet,55
+Gig_0394,V_Gamma,2024-03-25 17:00:00,0,10.0,92,488.0,4,Cloudy,Full Moon,Spandex,1088
+Gig_0395,V_Alpha,2024-05-16 17:00:00,3,0.0,76.31,507.0,5,Clear,First Quarter,Leather,763
+Gig_0396,V_Beta,09-12-2024 23:00,3,9.0,15.00,483.0,3,Cloudy,First Quarter,Spandex,658
+Gig_0397,V_Alpha,2024-06-30 17:00:00,6,5.0,41.54,1001.0,1,Cloudy,Last Quarter,Spandex,733
+Gig_0398,V_Beta,"June 13, 2024",3,1.0,46.90,542.0,1,Stormy,Waxing Crescent,Denim,76
+Gig_0399,V_Alpha,2024-07-14 17:00:00,6,,62.16,658.0,3,Rainy,First Quarter,Velvet,574
+Gig_0400,V_Beta,2024-05-04 11:00:00,5,8.0,40.32,601.0,1,Cloudy,Last Quarter,Denim,83
+Gig_0401,V_Alpha,2024-03-01 21:00:00,4,,68.16,667.0,5,Cloudy,Waning Gibbous,Spandex,615
+Gig_0402,V_Alpha,2024-07-28 23:00:00,6,,70.04,400.0,5,Rainy,Waning Gibbous,Velvet,552
+Gig_0403,V_Beta,24/05/2024 07:00 PM,4,2.0,72.00,523.0,3,Stormy,Full Moon,Denim,626
+Gig_0404,V_Delta,2024-09-06 23:00:00,4,4.0,25.82,549.0,3,Rainy,New Moon,Spandex,957
+Gig_0405,V_Alpha,2024-06-04 21:00:00,1,,54.63,460.0,3,Cloudy,Waning Crescent,Velvet,489
+Gig_0406,V_Gamma,2024-04-27 18:00:00,5,6.0,87,1022.0,1,Rainy,Waning Gibbous,Velvet,1371
+Gig_0407,V_Delta,2024-08-26 19:00:00,0,2.0,48.90,413.0,3,Rainy,Waning Gibbous,Velvet,873
+Gig_0408,V_Alpha,2024-07-28 15:00:00,6,0.0,64.49,661.0,1,Stormy,Waning Gibbous,Denim,866
+Gig_0409,V_Beta,"June 29, 2024",5,7.0,53.91,599.0,1,Clear,Last Quarter,Velvet,1134
+Gig_0410,V_Beta,2024-07-24 08:00:00,2,5.0,35.85,282.0,3,Stormy,Full Moon,Spandex,0
+Gig_0411,V_Alpha,2024-07-19 18:00:00,4,4.0,70.46,465.0,4,Stormy,Waxing Gibbous,Spandex,1159
+Gig_0412,V_Delta,2024-07-27 23:00:00,5,8.0,17.43,458.0,2,Stormy,Waning Gibbous,Leather,1442
+Gig_0413,V_Gamma,2024-06-20 17:00:00,3,8.0,73.63 USD,708.0,1,Stormy,Waxing Gibbous,Velvet,1063
+Gig_0414,V_Delta,2024-05-14 17:00:00,1,4.0,53.54,396.0,2,Stormy,Waxing Crescent,Spandex,677
+Gig_0415,V_Delta,2024-07-11 16:00:00,3,8.0,51.41,316.0,3,Clear,Waxing Crescent,Denim,529
+Gig_0416,V_Delta,2024-07-14 19:00:00,6,10.0,18.34,530.0,5,Cloudy,First Quarter,Spandex,923
+Gig_0417,V_Delta,2024-07-24 20:00:00,2,2.0,32.66,390.0,3,Stormy,Full Moon,Leather,555
+Gig_0418,V_Alpha,2024-07-30 21:00:00,1,5.0,52.63,592.0,1,Clear,Last Quarter,Spandex,1029
+Gig_0419,V_Alpha,2024-08-20 22:00:00,1,2.0,70.30,643.0,3,Rainy,Full Moon,Spandex,614
+Gig_0420,V_Beta,2024-07-15 23:00:00,0,2.0,89.12,345.0,2,Clear,First Quarter,Velvet,545
+Gig_0421,V_Beta,2024-09-04 09:00:00,2,8.0,77.16,381.0,1,Stormy,New Moon,Velvet,0
+Gig_0422,V_Gamma,2024-03-29 17:00:00,4,2.0,$70.26,315.0,3,Stormy,Waning Gibbous,Leather,1075
+Gig_0423,V_Beta,20/03/2024 12:00 PM,2,2.0,58.61,447.0,2,Clear,First Quarter,Velvet,0
+Gig_0424,V_Gamma,2024-09-07 17:00:00,5,3.0,60.41 USD,609.0,1,Cloudy,Waxing Crescent,Spandex,833
+Gig_0425,V_Alpha,2024-04-19 19:00:00,4,6.0,57.68,624.0,1,Cloudy,First Quarter,Spandex,999
+Gig_0426,V_Delta,2024-03-24 20:00:00,6,2.0,30.01,586.0,2,Cloudy,Waxing Gibbous,Spandex,862
+Gig_0427,V_Delta,2024-06-27 17:00:00,3,10.0,36.79,436.0,4,Rainy,Waning Gibbous,Denim,1004
+Gig_0428,V_Alpha,2024-05-15 18:00:00,2,2.0,53.38,713.0,2,Rainy,Waxing Crescent,Velvet,696
+Gig_0429,V_Gamma,2024-03-20 19:00:00,2,3.0,Free,560.0,1,Stormy,First Quarter,Velvet,286
+Gig_0430,V_Delta,2024-08-25 23:00:00,6,7.0,48.00,509.0,2,Stormy,Waning Gibbous,Leather,1141
+Gig_0431,V_Gamma,2024-06-04 21:00:00,1,7.0,$43.35 (VIP: $65.03),363.0,5,Cloudy,Waning Crescent,Leather,621
+Gig_0432,V_Beta,2024-09-14 10:00:00,5,8.0,30.64,1061.0,2,Stormy,First Quarter,Denim,33
+Gig_0433,V_Gamma,2024-06-07 18:00:00,4,6.0,$84.98,577.0,3,Clear,New Moon,Spandex,1116
+Gig_0434,V_Delta,2024-06-04 21:00:00,1,11.0,43.42,317.0,5,Cloudy,Waning Crescent,Spandex,1031
+Gig_0435,V_Gamma,2024-06-10 20:00:00,0,9.0,$62.37,623.0,2,Rainy,New Moon,Leather,1162
+Gig_0436,V_Alpha,2024-06-08 22:00:00,5,1.0,52.97,364.0,2,Rainy,New Moon,Leather,475
+Gig_0437,V_Beta,Afternoon,0,6.0,32.71,542.0,5,Rainy,Last Quarter,Spandex,113
+Gig_0438,V_Delta,2024-05-27 19:00:00,0,5.0,45.08,449.0,4,Cloudy,Waning Gibbous,Spandex,908
+Gig_0439,V_Beta,"September 15, 2024",6,8.0,52.38,369.0,3,Stormy,Waxing Gibbous,Leather,800
+Gig_0440,V_Alpha,2024-05-08 23:00:00,2,,50.75,414.0,1,Rainy,New Moon,Spandex,395
+Gig_0441,V_Beta,2024-03-13 13:00:00,2,10.0,47.11,524.0,2,Rainy,New Moon,Velvet,115
+Gig_0442,V_Beta,2024-09-01 15:00:00,6,7.0,29.60,757.0,1,Stormy,Waning Crescent,Leather,45
+Gig_0443,V_Alpha,2024-07-24 21:00:00,2,,55.07,336.0,5,Stormy,Full Moon,Denim,426
+Gig_0444,V_Gamma,2024-04-05 18:00:00,4,11.0,$54.63,498.0,3,Clear,Waning Crescent,Denim,644
+Gig_0445,V_Gamma,2024-05-30 17:00:00,3,4.0,$38.43,601.0,3,Clear,Waning Gibbous,Denim,815
+Gig_0446,V_Delta,2024-05-05 11:00:00,6,11.0,51.70,556.0,3,Cloudy,Waning Crescent,Leather,1274
+Gig_0447,V_Beta,Morning,5,1.0,46.39,719.0,5,Cloudy,New Moon,Leather,82
+Gig_0448,V_Beta,"April 06, 2024",5,5.0,47.45,535.0,1,Clear,Waning Crescent,Velvet,157
+Gig_0449,V_Delta,2024-07-02 21:00:00,1,9.0,32.33,486.0,5,Cloudy,Last Quarter,Spandex,803
+Gig_0450,V_Beta,2024-08-13 08:00:00,1,4.0,29.01,857.0,5,Rainy,First Quarter,Denim,0
+Gig_0451,V_Delta,2024-08-03 21:00:00,5,1.0,39.18,687.0,5,Clear,Waning Crescent,Velvet,936
+Gig_0452,V_Beta,2024-07-27 08:00:00,5,7.0,57.79,674.0,4,Cloudy,Waning Gibbous,Leather,0
+Gig_0453,V_Alpha,2024-04-09 23:00:00,1,0.0,79.92,450.0,1,Cloudy,New Moon,Spandex,654
+Gig_0454,V_Gamma,2024-06-14 23:00:00,4,4.0,40,618.0,4,Rainy,First Quarter,Denim,196
+Gig_0455,V_Beta,05-09-2024 21:00,3,11.0,43.58,566.0,1,Clear,New Moon,Denim,895
+Gig_0456,V_Gamma,2024-07-14 23:00:00,6,2.0,$51.94,734.0,1,Stormy,First Quarter,Velvet,133
+Gig_0457,V_Gamma,2024-08-03 16:00:00,5,1.0,$56.26,486.0,1,Clear,Waning Crescent,Spandex,661
+Gig_0458,V_Beta,"August 17, 2024",5,11.0,18.98,958.0,4,Rainy,Waxing Gibbous,Velvet,1226
+Gig_0459,V_Delta,2024-05-08 15:00:00,2,10.0,38.50,549.0,2,Cloudy,New Moon,Spandex,689
+Gig_0460,V_Alpha,2024-05-22 17:00:00,2,,41.84,419.0,3,Clear,Waxing Gibbous,Denim,295
+Gig_0461,V_Beta,2024-06-04 20:00:00,1,1.0,35.69,661.0,4,Rainy,Waning Crescent,Velvet,626
+Gig_0462,V_Gamma,2024-04-03 16:00:00,2,2.0,£48.17,380.0,4,Cloudy,Last Quarter,Velvet,917
+Gig_0463,V_Beta,30/07/2024 10:00 AM,1,3.0,76.60,577.0,2,Stormy,Last Quarter,Leather,65
+Gig_0464,V_Alpha,2024-09-02 23:00:00,0,,64.29,537.0,3,Clear,Waning Crescent,Spandex,377
+Gig_0465,V_Delta,2024-09-11 15:00:00,2,1.0,39.35,695.0,2,Stormy,First Quarter,Velvet,858
+Gig_0466,V_Beta,03-25-2024 23:00,0,5.0,40.36,534.0,4,Cloudy,Full Moon,Denim,773
+Gig_0467,V_Beta,Evening,1,10.0,41.52,804.0,3,Cloudy,Waxing Gibbous,Spandex,700
+Gig_0468,V_Gamma,2024-08-17 13:00:00,5,3.0,$95.33,805.0,5,Cloudy,Waxing Gibbous,Denim,1288
+Gig_0469,V_Beta,"September 12, 2024",3,1.0,49.29,,4,Clear,First Quarter,Denim,787
+Gig_0470,V_Beta,2024-06-30 13:00:00,6,2.0,88.93,444.0,1,Cloudy,Last Quarter,Spandex,395
+Gig_0471,V_Gamma,2024-06-19 17:00:00,2,4.0,$61.43,536.0,2,Clear,Waxing Gibbous,Spandex,855
+Gig_0472,V_Beta,2024-04-26 14:00:00,4,8.0,32.27,111.0,2,Clear,Full Moon,Velvet,97
+Gig_0473,V_Beta,22/04/2024 11:00 AM,0,4.0,80.50,342.0,2,Cloudy,Waxing Gibbous,Leather,75
+Gig_0474,V_Beta,03/05/2024 12:00 PM,4,10.0,38.05,379.0,1,Cloudy,Last Quarter,Leather,157
+Gig_0475,V_Alpha,2024-03-09 22:00:00,5,4.0,49.97,638.0,4,Clear,Waning Crescent,Spandex,799
+Gig_0476,V_Gamma,2024-03-08 22:00:00,4,3.0,€82.96,464.0,3,Rainy,Waning Crescent,Velvet,1168
+Gig_0477,V_Beta,Morning,6,7.0,51.23,407.0,4,Rainy,Full Moon,Velvet,45
+Gig_0478,V_Alpha,2024-03-08 16:00:00,4,0.0,45.17,413.0,3,Stormy,Waning Crescent,Denim,586
+Gig_0479,V_Alpha,2024-05-04 22:00:00,5,,81.23,213.0,5,Clear,Last Quarter,Leather,440
+Gig_0480,V_Delta,2024-09-09 23:00:00,0,3.0,25.86,379.0,2,Rainy,Waxing Crescent,Velvet,679
+Gig_0481,V_Beta,2024-03-31 08:00:00,6,9.0,61.64,594.0,2,Stormy,Waning Gibbous,Leather,0
+Gig_0482,V_Gamma,2024-05-28 23:00:00,1,2.0,$51.61,514.0,1,Cloudy,Waning Gibbous,Leather,385
+Gig_0483,V_Delta,2024-03-26 18:00:00,1,4.0,17.89,554.0,3,Cloudy,Full Moon,Velvet,705
+Gig_0484,V_Beta,03/04/2024 03:00 PM,2,10.0,39.63,344.0,1,Cloudy,Last Quarter,Denim,369
+Gig_0485,V_Delta,2024-09-06 22:00:00,4,4.0,62.32,615.0,4,Clear,New Moon,Spandex,951
+Gig_0486,V_Alpha,2024-06-22 14:00:00,5,3.0,41.62,854.0,2,Stormy,Full Moon,Denim,1029
+Gig_0487,V_Delta,2024-03-18 23:00:00,0,8.0,34.55,430.0,1,Stormy,First Quarter,Spandex,455
+Gig_0488,V_Alpha,2024-04-26 18:00:00,4,2.0,33.50,539.0,4,Clear,Full Moon,Velvet,800
+Gig_0489,V_Gamma,2024-03-18 18:00:00,0,4.0,Free,,5,Rainy,First Quarter,Leather,1489
+Gig_0490,V_Beta,2024-08-31 20:00:00,5,10.0,25.27,335.0,4,Rainy,Waning Crescent,Leather,970
+Gig_0491,V_Delta,2024-04-23 23:00:00,1,3.0,48.65,493.0,2,Cloudy,Waxing Gibbous,Velvet,494
+Gig_0492,V_Beta,2024-06-14 22:00:00,4,9.0,46.39,174.0,3,Rainy,First Quarter,Leather,851
+Gig_0493,V_Alpha,2024-04-14 19:00:00,6,2.0,48.84,807.0,2,Rainy,Waxing Crescent,Velvet,1167
+Gig_0494,V_Beta,21/03/2024 08:00 AM,3,2.0,61.61,411.0,1,Stormy,First Quarter,Spandex,174
+Gig_0495,V_Beta,07-07-2024 10:00,6,2.0,33.33,456.0,4,Rainy,New Moon,Velvet,0
+Gig_0496,V_Delta,2024-04-19 18:00:00,4,9.0,28.25,480.0,4,Clear,First Quarter,Leather,1129
+Gig_0497,V_Alpha,2024-03-08 16:00:00,4,2.0,40.87,707.0,3,Cloudy,Waning Crescent,Leather,695
+Gig_0498,V_Delta,2024-04-05 21:00:00,4,3.0,22.29,481.0,2,Stormy,Waning Crescent,Velvet,337
+Gig_0499,V_Alpha,2024-07-18 21:00:00,3,6.0,55.22,637.0,2,Rainy,Waxing Gibbous,Spandex,1303
