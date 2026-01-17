@@ -22,7 +22,7 @@ The theme revolves around the comeback tour of the fictional band Electric Omen,
 
 
 
-#### Project Highlights
+### Project Highlights
 
 **🔍 Exploratory Data Analysis (EDA)**
 
@@ -86,13 +86,10 @@ finding\_reports.pdf → Clean summary of insights, feature importance, model be
    git clone https://github.com/Ayush-IITGuw/Coding-Week-ML-Task-1---Ayush-Mishra
 
    cd Coding-Week-ML-Task-1---Ayush-Mishra
+
 2. Install dependencies
 
- 	pip install numpy pandas scikit-learn matplotlib seaborn jupyter
+    	pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 
-
-
-3\.  Run the notebook
-
- 	jupyter notebook analysis\_notebook.ipynb
+   
 
